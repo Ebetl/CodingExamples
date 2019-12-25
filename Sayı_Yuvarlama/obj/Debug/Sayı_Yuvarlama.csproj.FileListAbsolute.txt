@@ -1,0 +1,8 @@
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Sayı_Yuvarlama\bin\Debug\Sayı_Yuvarlama.exe.config
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Sayı_Yuvarlama\bin\Debug\Sayı_Yuvarlama.exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Sayı_Yuvarlama\bin\Debug\Sayı_Yuvarlama.pdb
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Sayı_Yuvarlama\obj\Debug\Sayı_Yuvarlama.Form1.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Sayı_Yuvarlama\obj\Debug\Sayı_Yuvarlama.Properties.Resources.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Sayı_Yuvarlama\obj\Debug\Sayı_Yuvarlama.csproj.GenerateResource.Cache
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Sayı_Yuvarlama\obj\Debug\Sayı_Yuvarlama.exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Sayı_Yuvarlama\obj\Debug\Sayı_Yuvarlama.pdb

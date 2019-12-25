@@ -1,0 +1,8 @@
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\sayilariBicimlendirme\bin\Debug\sayilariBicimlendirme.exe.config
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\sayilariBicimlendirme\bin\Debug\sayilariBicimlendirme.exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\sayilariBicimlendirme\bin\Debug\sayilariBicimlendirme.pdb
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\sayilariBicimlendirme\obj\Debug\sayilariBicimlendirme.Form1.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\sayilariBicimlendirme\obj\Debug\sayilariBicimlendirme.Properties.Resources.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\sayilariBicimlendirme\obj\Debug\sayilariBicimlendirme.csproj.GenerateResource.Cache
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\sayilariBicimlendirme\obj\Debug\sayilariBicimlendirme.exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\sayilariBicimlendirme\obj\Debug\sayilariBicimlendirme.pdb

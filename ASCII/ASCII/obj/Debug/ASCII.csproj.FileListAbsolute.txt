@@ -1,0 +1,8 @@
+C:\Users\EbruBetul\Desktop\ASCII\ASCII\bin\Debug\ASCII.exe.config
+C:\Users\EbruBetul\Desktop\ASCII\ASCII\bin\Debug\ASCII.exe
+C:\Users\EbruBetul\Desktop\ASCII\ASCII\bin\Debug\ASCII.pdb
+C:\Users\EbruBetul\Desktop\ASCII\ASCII\obj\Debug\ASCII.Form1.resources
+C:\Users\EbruBetul\Desktop\ASCII\ASCII\obj\Debug\ASCII.Properties.Resources.resources
+C:\Users\EbruBetul\Desktop\ASCII\ASCII\obj\Debug\ASCII.csproj.GenerateResource.Cache
+C:\Users\EbruBetul\Desktop\ASCII\ASCII\obj\Debug\ASCII.exe
+C:\Users\EbruBetul\Desktop\ASCII\ASCII\obj\Debug\ASCII.pdb

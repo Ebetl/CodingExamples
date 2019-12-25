@@ -1,0 +1,9 @@
+C:\Users\EbruBetul\Desktop\BasamakHassasiyeti\BasamakHassasiyeti\bin\Debug\BasamakHassasiyeti.exe.config
+C:\Users\EbruBetul\Desktop\BasamakHassasiyeti\BasamakHassasiyeti\bin\Debug\BasamakHassasiyeti.exe
+C:\Users\EbruBetul\Desktop\BasamakHassasiyeti\BasamakHassasiyeti\bin\Debug\BasamakHassasiyeti.pdb
+C:\Users\EbruBetul\Desktop\BasamakHassasiyeti\BasamakHassasiyeti\obj\Debug\BasamakHassasiyeti.csprojResolveAssemblyReference.cache
+C:\Users\EbruBetul\Desktop\BasamakHassasiyeti\BasamakHassasiyeti\obj\Debug\BasamakHassasiyeti.Form1.resources
+C:\Users\EbruBetul\Desktop\BasamakHassasiyeti\BasamakHassasiyeti\obj\Debug\BasamakHassasiyeti.Properties.Resources.resources
+C:\Users\EbruBetul\Desktop\BasamakHassasiyeti\BasamakHassasiyeti\obj\Debug\BasamakHassasiyeti.csproj.GenerateResource.Cache
+C:\Users\EbruBetul\Desktop\BasamakHassasiyeti\BasamakHassasiyeti\obj\Debug\BasamakHassasiyeti.exe
+C:\Users\EbruBetul\Desktop\BasamakHassasiyeti\BasamakHassasiyeti\obj\Debug\BasamakHassasiyeti.pdb

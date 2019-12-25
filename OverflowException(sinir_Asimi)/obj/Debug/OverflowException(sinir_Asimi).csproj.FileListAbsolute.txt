@@ -1,0 +1,8 @@
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\OverflowException(sinir_Asimi)\bin\Debug\OverflowException(sinir_Asimi).exe.config
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\OverflowException(sinir_Asimi)\bin\Debug\OverflowException(sinir_Asimi).exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\OverflowException(sinir_Asimi)\bin\Debug\OverflowException(sinir_Asimi).pdb
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\OverflowException(sinir_Asimi)\obj\Debug\OverflowException_sinir_Asimi_.Form1.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\OverflowException(sinir_Asimi)\obj\Debug\OverflowException_sinir_Asimi_.Properties.Resources.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\OverflowException(sinir_Asimi)\obj\Debug\OverflowException(sinir_Asimi).csproj.GenerateResource.Cache
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\OverflowException(sinir_Asimi)\obj\Debug\OverflowException(sinir_Asimi).exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\OverflowException(sinir_Asimi)\obj\Debug\OverflowException(sinir_Asimi).pdb

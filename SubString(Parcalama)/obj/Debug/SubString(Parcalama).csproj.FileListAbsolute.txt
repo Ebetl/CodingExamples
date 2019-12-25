@@ -1,0 +1,9 @@
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\SubString(Parcalama)\bin\Debug\SubString(Parcalama).exe.config
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\SubString(Parcalama)\bin\Debug\SubString(Parcalama).exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\SubString(Parcalama)\bin\Debug\SubString(Parcalama).pdb
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\SubString(Parcalama)\obj\Debug\SubString_Parcalama_.Form1.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\SubString(Parcalama)\obj\Debug\SubString_Parcalama_.Properties.Resources.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\SubString(Parcalama)\obj\Debug\SubString(Parcalama).csproj.GenerateResource.Cache
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\SubString(Parcalama)\obj\Debug\SubString(Parcalama).exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\SubString(Parcalama)\obj\Debug\SubString(Parcalama).pdb
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\SubString(Parcalama)\obj\Debug\SubString(Parcalama).csprojResolveAssemblyReference.cache

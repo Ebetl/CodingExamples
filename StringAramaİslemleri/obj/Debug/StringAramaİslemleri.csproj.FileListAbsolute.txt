@@ -1,0 +1,9 @@
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\StringAramaİslemleri\bin\Debug\StringAramaİslemleri.exe.config
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\StringAramaİslemleri\obj\Debug\StringAramaİslemleri.Form1.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\StringAramaİslemleri\obj\Debug\StringAramaİslemleri.Properties.Resources.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\StringAramaİslemleri\obj\Debug\StringAramaİslemleri.csproj.GenerateResource.Cache
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\StringAramaİslemleri\bin\Debug\StringAramaİslemleri.exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\StringAramaİslemleri\bin\Debug\StringAramaİslemleri.pdb
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\StringAramaİslemleri\obj\Debug\StringAramaİslemleri.exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\StringAramaİslemleri\obj\Debug\StringAramaİslemleri.pdb
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\StringAramaİslemleri\obj\Debug\StringAramaİslemleri.csprojResolveAssemblyReference.cache

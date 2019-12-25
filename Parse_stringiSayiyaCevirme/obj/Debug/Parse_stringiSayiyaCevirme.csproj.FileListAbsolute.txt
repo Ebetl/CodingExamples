@@ -1,0 +1,8 @@
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Parse_stringiSayiyaCevirme\bin\Debug\Parse_stringiSayiyaCevirme.exe.config
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Parse_stringiSayiyaCevirme\obj\Debug\Parse_stringiSayiyaCevirme.Form1.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Parse_stringiSayiyaCevirme\obj\Debug\Parse_stringiSayiyaCevirme.Properties.Resources.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Parse_stringiSayiyaCevirme\obj\Debug\Parse_stringiSayiyaCevirme.csproj.GenerateResource.Cache
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Parse_stringiSayiyaCevirme\bin\Debug\Parse_stringiSayiyaCevirme.exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Parse_stringiSayiyaCevirme\bin\Debug\Parse_stringiSayiyaCevirme.pdb
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Parse_stringiSayiyaCevirme\obj\Debug\Parse_stringiSayiyaCevirme.exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Parse_stringiSayiyaCevirme\obj\Debug\Parse_stringiSayiyaCevirme.pdb

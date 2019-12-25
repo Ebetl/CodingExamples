@@ -1,0 +1,9 @@
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\ÖzelFormatİfadesi\bin\Debug\ÖzelFormatİfadesi.exe.config
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\ÖzelFormatİfadesi\bin\Debug\ÖzelFormatİfadesi.exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\ÖzelFormatİfadesi\bin\Debug\ÖzelFormatİfadesi.pdb
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\ÖzelFormatİfadesi\obj\Debug\ÖzelFormatİfadesi.Form1.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\ÖzelFormatİfadesi\obj\Debug\ÖzelFormatİfadesi.Properties.Resources.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\ÖzelFormatİfadesi\obj\Debug\ÖzelFormatİfadesi.csproj.GenerateResource.Cache
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\ÖzelFormatİfadesi\obj\Debug\ÖzelFormatİfadesi.exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\ÖzelFormatİfadesi\obj\Debug\ÖzelFormatİfadesi.pdb
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\ÖzelFormatİfadesi\obj\Debug\ÖzelFormatİfadesi.csprojResolveAssemblyReference.cache

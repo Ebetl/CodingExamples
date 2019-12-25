@@ -1,0 +1,9 @@
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\ToLower_ToUpper\bin\Debug\ToLower_ToUpper.exe.config
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\ToLower_ToUpper\bin\Debug\ToLower_ToUpper.exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\ToLower_ToUpper\bin\Debug\ToLower_ToUpper.pdb
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\ToLower_ToUpper\obj\Debug\ToLower_ToUpper.Form1.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\ToLower_ToUpper\obj\Debug\ToLower_ToUpper.Properties.Resources.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\ToLower_ToUpper\obj\Debug\ToLower_ToUpper.csproj.GenerateResource.Cache
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\ToLower_ToUpper\obj\Debug\ToLower_ToUpper.exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\ToLower_ToUpper\obj\Debug\ToLower_ToUpper.pdb
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\ToLower_ToUpper\obj\Debug\ToLower_ToUpper.csprojResolveAssemblyReference.cache

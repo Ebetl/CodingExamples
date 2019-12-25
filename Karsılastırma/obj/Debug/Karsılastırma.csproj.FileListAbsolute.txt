@@ -1,0 +1,8 @@
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Karsılastırma\bin\Debug\Karsılastırma.exe.config
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Karsılastırma\bin\Debug\Karsılastırma.exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Karsılastırma\bin\Debug\Karsılastırma.pdb
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Karsılastırma\obj\Debug\Karsılastırma.Form1.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Karsılastırma\obj\Debug\Karsılastırma.Properties.Resources.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Karsılastırma\obj\Debug\Karsılastırma.csproj.GenerateResource.Cache
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Karsılastırma\obj\Debug\Karsılastırma.exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\Karsılastırma\obj\Debug\Karsılastırma.pdb

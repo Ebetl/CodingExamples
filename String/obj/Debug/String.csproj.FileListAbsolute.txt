@@ -1,0 +1,9 @@
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\String\bin\Debug\String.exe.config
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\String\bin\Debug\String.exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\String\bin\Debug\String.pdb
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\String\obj\Debug\String.csprojResolveAssemblyReference.cache
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\String\obj\Debug\String.Form1.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\String\obj\Debug\String.Properties.Resources.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\String\obj\Debug\String.csproj.GenerateResource.Cache
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\String\obj\Debug\String.exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\String\obj\Debug\String.pdb

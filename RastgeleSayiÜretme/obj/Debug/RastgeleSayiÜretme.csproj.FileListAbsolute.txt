@@ -1,0 +1,9 @@
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\RastgeleSayiÜretme\bin\Debug\RastgeleSayiÜretme.exe.config
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\RastgeleSayiÜretme\bin\Debug\RastgeleSayiÜretme.exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\RastgeleSayiÜretme\bin\Debug\RastgeleSayiÜretme.pdb
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\RastgeleSayiÜretme\obj\Debug\RastgeleSayiÜretme.csprojResolveAssemblyReference.cache
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\RastgeleSayiÜretme\obj\Debug\RastgeleSayiÜretme.Form1.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\RastgeleSayiÜretme\obj\Debug\RastgeleSayiÜretme.Properties.Resources.resources
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\RastgeleSayiÜretme\obj\Debug\RastgeleSayiÜretme.csproj.GenerateResource.Cache
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\RastgeleSayiÜretme\obj\Debug\RastgeleSayiÜretme.exe
+C:\Users\EbruBetul\Desktop\OverflowException(sinir_Asimi)\RastgeleSayiÜretme\obj\Debug\RastgeleSayiÜretme.pdb
